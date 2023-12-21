@@ -1,9 +1,117 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T01:16:58.534Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" version="22.1.11" etag="diA4P5PtZn-QNi5b7aej" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T01:35:20.335Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="GhM1oiAuluhS11FkSxun" version="22.1.11" type="github">
   <diagram name="第 1 页" id="qb7qnWnaird_ZfYshbe5">
-    <mxGraphModel>
+    <mxGraphModel dx="1059" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lABEiscR35E0CSVOT1tY-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="60" width="640" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="lABEiscR35E0CSVOT1tY-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="60" width="110" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="lABEiscR35E0CSVOT1tY-3" value="班级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="60" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lABEiscR35E0CSVOT1tY-4" value="消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="120" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lABEiscR35E0CSVOT1tY-5" value="审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="89" y="180" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lABEiscR35E0CSVOT1tY-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="760" width="770" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="lABEiscR35E0CSVOT1tY-8" value="下拉框，选择我已经加入的班级以及我没有加入的班级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="790" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lABEiscR35E0CSVOT1tY-12" value="班级名称" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="880" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lABEiscR35E0CSVOT1tY-13" value="加入班级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="880" width="116" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lABEiscR35E0CSVOT1tY-14" value="查看班级（点进去看班级有哪些同学）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="880" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lABEiscR35E0CSVOT1tY-15" value="创建班级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="790" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lABEiscR35E0CSVOT1tY-16" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1500" width="650" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="lABEiscR35E0CSVOT1tY-18" value="发送人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="1570" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lABEiscR35E0CSVOT1tY-19" value="消息内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="396" y="1570" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lABEiscR35E0CSVOT1tY-20" value="发送通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="880" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lABEiscR35E0CSVOT1tY-22" value="名称" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="970" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lABEiscR35E0CSVOT1tY-23" value="加入班级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="970" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lABEiscR35E0CSVOT1tY-24" value="查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="409" y="970" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lABEiscR35E0CSVOT1tY-25" value="发送通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="970" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lABEiscR35E0CSVOT1tY-26" value="发送人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1650" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lABEiscR35E0CSVOT1tY-27" value="消息内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="396" y="1650" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lABEiscR35E0CSVOT1tY-28" value="发送系统通知，点击去后输入内容，会向所有人发送消息，我后端会做权限管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1500" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lABEiscR35E0CSVOT1tY-29" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="2190" width="660" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="lABEiscR35E0CSVOT1tY-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1.005;entryY=0.491;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lABEiscR35E0CSVOT1tY-6" target="lABEiscR35E0CSVOT1tY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lABEiscR35E0CSVOT1tY-32" value="进班级审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="880" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lABEiscR35E0CSVOT1tY-33" value="进班级审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="737" y="965" width="83" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="lABEiscR35E0CSVOT1tY-34" value="用户名称" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="107.5" y="2230" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lABEiscR35E0CSVOT1tY-35" value="用户姓名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="2230" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lABEiscR35E0CSVOT1tY-36" value="学号或者工号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="396" y="2230" width="111" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lABEiscR35E0CSVOT1tY-37" value="同意" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="2230" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lABEiscR35E0CSVOT1tY-38" value="取消" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="2230" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lABEiscR35E0CSVOT1tY-39" value="用户名称" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="2300" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lABEiscR35E0CSVOT1tY-40" value="用户姓名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="2300" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lABEiscR35E0CSVOT1tY-41" value="学号或者工号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="396" y="2300" width="111" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lABEiscR35E0CSVOT1tY-42" value="同意" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="2300" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lABEiscR35E0CSVOT1tY-43" value="取消" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="667" y="2300" width="70" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
